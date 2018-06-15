@@ -17,20 +17,20 @@
 
 ## Release cycle
 
-We will distinguish *annual* releases from *intermediary* releases.
+We will distinguish *annual* releases from *intermediate* releases.
 
 TODO: document this new release cycle somewhere.
 
 ### Annual release
 
-An annual release happens only one time per year (obviously) with the following calendar:
+An **annual release** happens exactly one time per year (obviously) with the following calendar:
 - *May*: a discussion on the next release starts
 - *June*: features and the API are frozen, release candidates are built and tested
 - *July*: the official release is published
 
-### Intermediary release
+### Intermediate release
 
-If a release is required by someone in addition to the annual release (to make some new features public for a demo, to be able to benefit for recent API changes, etc.), he/she triggers a discussion on the *gemoc-dev* mailing list with:
+If an **intermediate release** is required by someone in addition to the annual release (to make some new features public for a demo, to be able to benefit for recent API changes, etc.), he/she triggers a discussion on the *gemoc-dev* mailing list with:
 - An "if-possible" release date
 - A list of issues/PR from Github that would if possible have to be solved/merged for this release
 
