@@ -23,11 +23,10 @@ TODO: document this new release cycle somewhere.
 
 ### Annual release
 
-- An annual release may break the API, and require other dependent projects to update their code
-- A annual release happens only one time per year (obviously) with the following calendar:
-  - **May**: a discussion on the next release starts
-  - **June**: features are frozen, release candidates are built
-  - **July**: the official release is published
+An annual release happens only one time per year (obviously) with the following calendar:
+- *May*: a discussion on the next release starts
+- *June*: features and the API are frozen, release candidates are built and tested
+- *July*: the official release is published
 
 ### Intermediary release
 
